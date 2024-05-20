@@ -6,3 +6,7 @@ body {
 a {
     color: #f9faf8;
 }
+
+img {
+    border-radius: 10px;
+}
