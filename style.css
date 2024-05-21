@@ -167,3 +167,16 @@ button {
     border: 3px solid #e5e7eb;
     padding: 0px 30px;
 }
+
+.copyright {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.copyright p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
