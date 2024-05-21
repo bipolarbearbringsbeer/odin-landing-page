@@ -18,3 +18,5 @@ The Funny Squirrel is your go-to source for all things squirrel-related. Whether
 Want to contribute? Feel free to submit your own squirrel photos, stories, or artwork! Just fork our repository and send us a pull request.
 
 Happy squirrel browsing! 🌰
+
+[Watch Website](https://bipolarbearbringsbeer.github.io/odin-landing-page/)
