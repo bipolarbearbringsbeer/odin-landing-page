@@ -112,4 +112,29 @@ button {
     color: #808080;
 }
 
+.quote {
+    background-color: #e5e7eb;
+    margin: 0;
+    padding: 10px 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 
+.quote p {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937
+}
+
+.quote footer {
+    margin-left: auto;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.action {
+    background-color: #fff;
+}
